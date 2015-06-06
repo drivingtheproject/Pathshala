@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 
-namespace Pathshala.UI
+namespace Pathshala.Main.UI
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
