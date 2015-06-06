@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <BitmapImage x:Key="IconApplication" UriSource="../Images/main.ico" />
+    <BitmapImage x:Key="IconHelp" UriSource="../Images/help.png" />
+    <BitmapImage x:Key="IconNew" UriSource="../Images/new.png" />
+    <BitmapImage x:Key="IconSave" UriSource="../Images/save.png" />
+    <BitmapImage x:Key="IconSaveAll" UriSource="../Images/save_all.png" />
+    <BitmapImage x:Key="IconMale" UriSource="../Images/male.png" />
+    <BitmapImage x:Key="IconFemale" UriSource="../Images/female.png" />
+    <BitmapImage x:Key="IconDepartment" UriSource="../Images/department.png" />
+    <BitmapImage x:Key="IconStudents" UriSource="../Images/students.png" />
+    <BitmapImage x:Key="IconFinance" UriSource="../Images/finance.png" />
+</ResourceDictionary>
