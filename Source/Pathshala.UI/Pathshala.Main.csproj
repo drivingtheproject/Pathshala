@@ -7,8 +7,8 @@
     <ProjectGuid>{7FD7753F-7BC1-4DCE-80E3-6798361A29E7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pathshala.UI</RootNamespace>
-    <AssemblyName>Pathshala.UI</AssemblyName>
+    <RootNamespace>Pathshala.Main</RootNamespace>
+    <AssemblyName>Pathshala</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -79,6 +79,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Model\RelayCommand.cs" />
+    <Compile Include="Model\ViewModelBase.cs" />
+    <Compile Include="Model\MainModel.cs" />
     <Compile Include="UI\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -147,7 +150,12 @@
     <Resource Include="Resources\Images\save_all.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
+    <SplashScreen Include="Resources\Images\splash.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </SplashScreen>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\data.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

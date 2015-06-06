@@ -10,4 +10,5 @@
     <BitmapImage x:Key="IconDepartment" UriSource="../Images/department.png" />
     <BitmapImage x:Key="IconStudents" UriSource="../Images/students.png" />
     <BitmapImage x:Key="IconFinance" UriSource="../Images/finance.png" />
+    <BitmapImage x:Key="IconData" UriSource="../Images/data.png" />
 </ResourceDictionary>

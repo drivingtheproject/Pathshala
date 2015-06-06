@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pathshala.UI")]
+[assembly: AssemblyTitle("Pathshala")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("SAP AG")]
-[assembly: AssemblyProduct("Pathshala.UI")]
-[assembly: AssemblyCopyright("Copyright © SAP AG 2015")]
+[assembly: AssemblyCompany("Driving The Project")]
+[assembly: AssemblyProduct("Pathshala")]
+[assembly: AssemblyCopyright("Copyright © DrivingTheProject 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

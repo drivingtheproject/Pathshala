@@ -1,20 +1,20 @@
-﻿Pathshala.UI
+﻿Pathshala
 
 
 winexe
 C#
 .cs
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\
-Pathshala.UI
+Pathshala.Main
 none
 false
 DEBUG;TRACE
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\App.xaml
 2-1489651716
 
-51367286333
+12600532627
 18-162982971
 UI\MainWindow.xaml;Resources\Assets\ImagesDictionary.xaml;
-
+resources\images\splash.jpg
 False
 

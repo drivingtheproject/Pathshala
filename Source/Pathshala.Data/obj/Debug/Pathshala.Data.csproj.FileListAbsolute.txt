@@ -3,3 +3,8 @@ C:\Workspace\Area 51\Projects\Pathshala\Pathshala.Data\bin\Debug\Pathshala.Data.
 C:\Workspace\Area 51\Projects\Pathshala\Pathshala.Data\obj\Debug\Pathshala.Data.csprojResolveAssemblyReference.cache
 C:\Workspace\Area 51\Projects\Pathshala\Pathshala.Data\obj\Debug\Pathshala.Data.dll
 C:\Workspace\Area 51\Projects\Pathshala\Pathshala.Data\obj\Debug\Pathshala.Data.pdb
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.Data\bin\Debug\Pathshala.Data.dll
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.Data\bin\Debug\Pathshala.Data.pdb
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.Data\obj\Debug\Pathshala.Data.csprojResolveAssemblyReference.cache
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.Data\obj\Debug\Pathshala.Data.dll
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.Data\obj\Debug\Pathshala.Data.pdb

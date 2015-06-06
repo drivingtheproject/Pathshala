@@ -1,4 +1,4 @@
-﻿Pathshala.UI
+﻿Pathshala
 
 
 winexe
@@ -12,9 +12,9 @@ DEBUG;TRACE
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\App.xaml
 2-1489651716
 
-11728084521
+8-1727887901
 18-162982971
 UI\MainWindow.xaml;Resources\Assets\ImagesDictionary.xaml;
-
+resources\images\splash.jpg
 False
 

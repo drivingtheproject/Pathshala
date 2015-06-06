@@ -57,7 +57,7 @@ namespace Pathshala.UI {
             
             #line default
             #line hidden
-            System.Uri resourceLocater = new System.Uri("/Pathshala.UI;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Pathshala;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -73,6 +73,8 @@ namespace Pathshala.UI {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
+            SplashScreen splashScreen = new SplashScreen("resources/images/splash.jpg");
+            splashScreen.Show(true);
             Pathshala.UI.App app = new Pathshala.UI.App();
             app.InitializeComponent();
             app.Run();

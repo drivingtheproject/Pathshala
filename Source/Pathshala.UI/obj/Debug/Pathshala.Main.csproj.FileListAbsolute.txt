@@ -1,6 +1,3 @@
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.UI.exe.config
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.UI.exe
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.UI.pdb
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.AvalonDock.dll
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
@@ -22,9 +19,13 @@ C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Resources\
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\App.baml
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\UI\MainWindow.g.cs
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\App.g.cs
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.UI_MarkupCompile.cache
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.UI.g.resources
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.UI.Properties.Resources.resources
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.Main.csproj.GenerateResource.Cache
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.UI.exe
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.UI.pdb
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.Main.csprojResolveAssemblyReference.cache
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.exe.config
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala_MarkupCompile.cache
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.g.resources
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.Main.Properties.Resources.resources
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.exe
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.pdb
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.exe
+C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.pdb

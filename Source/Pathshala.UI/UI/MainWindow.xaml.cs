@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows;
+using Pathshala.Main.Model;
 
 namespace Pathshala.Main.UI
 {
@@ -11,6 +12,12 @@ namespace Pathshala.Main.UI
         public MainWindow()
         {
             InitializeComponent();
+
+            var model = new MainModel();
+            model.Status = "Ready";
+            model.Title = "Pathshala";
+            model.ProductVersion = "Pathshala 1.0.0.0";
+            this.DataContext = model;
         }
     }
 }
