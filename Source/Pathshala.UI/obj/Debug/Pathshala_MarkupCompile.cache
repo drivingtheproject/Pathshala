@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\
 Pathshala.Main
 none
 false
 DEBUG;TRACE
-C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\App.xaml
-2-1489651716
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\App.xaml
+3-3990153
 
-8-1727887901
-18-162982971
-UI\MainWindow.xaml;Resources\Assets\ImagesDictionary.xaml;
+953737825
+18-1226836447
+UI\LoginWindow.xaml;UI\MainWindow.xaml;Resources\Assets\ImagesDictionary.xaml;
 resources\images\splash.jpg
 False
 

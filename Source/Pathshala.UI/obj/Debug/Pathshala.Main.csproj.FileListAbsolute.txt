@@ -29,3 +29,37 @@ C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.pdb
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.exe
 C:\Workspace\Area 51\Projects\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.pdb
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.exe.config
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.exe
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.pdb
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.exe
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Pathshala.pdb
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.Main.csprojResolveAssemblyReference.cache
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\UI\MainWindow.baml
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Resources\Assets\ImagesDictionary.baml
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\App.baml
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\UI\MainWindow.g.cs
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\App.g.cs
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala_MarkupCompile.cache
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.g.resources
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.Main.Properties.Resources.resources
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala.Main.csproj.GenerateResource.Cache
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\UI\LoginWindow.g.cs
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\Pathshala_MarkupCompile.lref
+C:\Workspace\Projects\Windows\Pathshala\Source\Pathshala.UI\obj\Debug\UI\LoginWindow.baml
