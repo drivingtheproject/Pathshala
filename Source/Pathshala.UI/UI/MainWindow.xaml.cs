@@ -18,6 +18,14 @@ namespace Pathshala.Main.UI
             model.Title = "Pathshala";
             model.ProductVersion = "Pathshala 1.0.0.0";
             this.DataContext = model;
+            
+        }
+
+        private void Window_Activated(object sender, EventArgs e)
+        {
+            LoginWindow login = new LoginWindow();
+            login.Owner = this;
+            login.ShowDialog();
         }
     }
 }
